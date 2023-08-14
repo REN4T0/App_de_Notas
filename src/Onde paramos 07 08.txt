@@ -1,0 +1,2 @@
+Em 07/08 paramos:
+ no método adicionaNota()
